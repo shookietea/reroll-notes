@@ -1,3 +1,5 @@
+# MAS7
+
 Overworld Location: Right
 # Sizes
 | Size 大小 (cm) | Object            | Notes                   |

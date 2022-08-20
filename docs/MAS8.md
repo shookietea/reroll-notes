@@ -1,3 +1,5 @@
+# MAS8
+
 Overworld Location: Down-Right
 # Sizes
 | Size 大小 (cm) | Object              | Notes                                                                                     |
