@@ -14,4 +14,4 @@ jobs:
         with:
           python-version: 3.x
       - run: pip install mkdocs
-      - run: mkdocs gh-deploy --verbose
+      - run: mkdocs gh-deploy --force --verbose
