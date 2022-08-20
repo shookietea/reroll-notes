@@ -1,10 +1,12 @@
 site_name: Katamari Damacy REROLL Speedrun Notes
 site_url: https://shookietea.github.io/reroll-notes
 repo_url: https://github.com/shookieTea/reroll-notes
+edit_uri: blob/main/docs/
 site_author: shookieTea
 site_description: Speedrunning notes for Katamari Damacy REROLL
 
 nav:
+  - 'Home': 'index.md'
   - 'Resources':
       - 'resources.md'
       - 'Overworld Map.md'
@@ -13,11 +15,13 @@ nav:
       - 'MAS2.md'
       - 'Cancer.md'
       - 'MAS3.md'
+      - 'MAS4.md'
       - 'Cygnus.md'
       - 'MAS5.md'
       - 'Corona Borealis.md'
       - 'MAS6.md'
       - 'Ursa Major.md'
+      - 'Gemini.md'
       - 'Pisces.md'
       - 'MAS7.md'
       - 'Taurus.md'
