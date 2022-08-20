@@ -1,7 +1,31 @@
 site_name: Katamari Damacy REROLL Speedrun Notes
-site_url: https://reroll-notes.github.io
+site_url: https://shookietea.github.io/reroll-notes
+repo_url: https://github.com/shookieTea/reroll-notes
 site_author: shookieTea
 site_description: Speedrunning notes for Katamari Damacy REROLL
+
+nav:
+  - 'Resources':
+    - 'resources.md'
+    - 'Overworld Map.md'
+  - 'Levels':
+    - 'Make a star 1': 'MAS1.md'
+    - 'MAS2.md'
+    - 'Cancer.md'
+    - 'MAS3.md'
+    - 'Cygnus.md'
+    - 'MAS5.md'
+    - 'Corona Borealis.md'
+    - 'MAS6.md'
+    - 'Ursa Major.md'
+    - 'Pisces.md'
+    - 'MAS7.md'
+    - 'Taurus.md'
+    - 'MAS8.md'
+    - 'Virgo.md'
+    - 'MAS9.md'
+    - 'North Star.md'
+    - 'Make the moon': 'MOON.md'
 
 theme:
   name: readthedocs
