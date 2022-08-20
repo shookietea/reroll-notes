@@ -1,6 +1,6 @@
 1. learn MAS 8 pig manip
 2. learn MAS 5 basket size
-![[any% overworld map#Visual]]
+![[Overworld Map#Any REROLL]]
 
 # Putting It All Together
 
