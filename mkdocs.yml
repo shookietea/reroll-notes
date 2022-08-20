@@ -1,0 +1,10 @@
+site_name: Katamari Damacy REROLL Speedrun Notes
+site_url: https://reroll-notes.github.io
+site_author: shookieTea
+site_description: Speedrunning notes for Katamari Damacy REROLL
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
