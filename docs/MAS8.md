@@ -1,7 +1,9 @@
 # MAS8
 
 Overworld Location: Down-Right
-# Sizes
+
+Sizes
+---
 | Size 大小 (cm) | Object              | Notes                                                                                     |
 | --------- | ------------------- | ----------------------------------------------------------------------------------------- |
 | 14        | Strawberry Jam イチゴジャム     |                                                                                           |
@@ -34,8 +36,4 @@ Size Milestones
 | --------- | --------------------------- | --- |
 | 422+      | Entering water after statue |   Decent size to shoot for getting the fish flag  |
 
- - when getting Cream Puffs, I can skip the extra takoyaki
- - When going for 29 for rakes
-    - grab shovels instead of toy guns
-- get rake 
-- get person in corner by steps after grannies for size
+- Oden > Kiddie Spade > Water Gun

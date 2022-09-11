@@ -1,7 +1,9 @@
 # MAS4
 
 Overworld Location: Down-Left
-# Sizes
+
+Sizes
+---
 | Size 大小 (cm) | Object                                    | Notes |
 | -------------- | ----------------------------------------- | ----- |
 | 7.4            | 9-Volt Battery カクガタカンデンチ         |       |
@@ -16,5 +18,4 @@ Overworld Location: Down-Left
 | 79.6           | Shopping Basket カイモノカゴ              |       |
 | 85.3           | Cucumber Plant キュウリエン               |       |
 
-- No-Boost: try to get Piggybanks without slippers by going into kitchen OG route, get dustpans & hair dryer
-- can skip going in bathroom in no-boost if big enough
+- can skip going in bathroom in no-boost and only get slippers

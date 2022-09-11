@@ -1,7 +1,9 @@
 # MAS6
 
 Overworld Location: Down-Right
-# Sizes
+
+Sizes
+---
 | Size 大小 (cm) | Object          | Notes |
 | --------- | --------------- | ----- |
 | 97.8      | Wooden Box キバコ     |       |
@@ -22,13 +24,11 @@ Size Milestones
 | 165.2                   | + Chicken x3 = White Sheep (167.1)                                                                                                                                              | + ニワトリ x3 = シロヒツジ (167.1)                                                                                                                        |
 | 264.8 after Gas Station | + Squared Shrubbery x2 + Traffic Mirror + Garden Plant (M) x2 + Garden Plant x2 + Vending Machine + Pay Phone + Arcade Machine + Bale of Rice x5 + Tricycle + Balloon Man = 300 | + シカクウエコミ x2 + ミラー + ウエキ x2 + ミニウエキ x2 + ジハンキ + コウシュウデンワ + ジハンキ + コメダワラ x5 + サンリンシャ + フウセンオジサン = 300 |
 
+Routes
+---
 
-Try getting 179.1 for park benches outside of the park then skipping gas station
-266cm before sign seems minimum safe
-Squared Shrubbery(x2) + Traffic Mirror + Garden Plant (M)(x2) + Garden Plant (x2) + Vending Machine + Pay Phone + Arcade Machine + Bale of Rice(x5) + Tricycle + Balloon Man
+### [Alternate route to plant](https://youtu.be/PWEgPqYKeOI )
+- No boost
 
-https://youtu.be/PWEgPqYKeOI 
-Alternate route to plants
-
-https://youtu.be/r7XeTmogOW4
-Go forward at sta
+### [Going forward at start](https://youtu.be/r7XeTmogOW4)
+- No boost

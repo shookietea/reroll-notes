@@ -28,10 +28,10 @@ Sizes
 - [Cymbol Monkeys end for NB](https://www.speedrun.com/katamarireroll/run/z5vgqn5m)
 - go up stairs to right and end at [monkeys](https://www.twitch.tv/videos/1305560835?t=00h01m15s)
 
-New Route
+Routes
 ---
 
-https://youtu.be/QPnOBPnDslA?t=55
+### [Crabs to Planter Fences](https://youtu.be/QPnOBPnDslA?t=55)
 - Go for fried chicken and kiddie spades in dog area
 - Get sink strainer after dog bowls and climb up
 - Get paint cans + hair dryer as usual
@@ -44,8 +44,8 @@ https://youtu.be/QPnOBPnDslA?t=55
 - Bullhorn to left of top steps
 - End on Planter fences into Flower Pot
 
-https://www.youtube.com/watch?v=Tiy6hvwedcU
+### [Skip eggplant](https://www.youtube.com/watch?v=Tiy6hvwedcU)
 - route from game1t
 	- if you miss the flower line and butterflies
 	- this is a good alternative and skips eggplant
-	- get the line of toothbrushes if too small for can
+	- get the line of toothbrushes if too small for can (18.2)

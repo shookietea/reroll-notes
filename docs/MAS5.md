@@ -1,10 +1,13 @@
 # MAS5
 
 Overworld Location: Up
-# Sizes
+
+Sizes
+---
 | Size 大小 (cm) | Object                            | Notes                                                                                                            |
 | -------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | 12             | Monster Cherries デカサクランボ   |                                                                                                                  |
+| 13.9           | Big Takoyaki                      |                                                                                                                  |
 | 18             | Teacup ユノミ                     |                                                                                                                  |
 | 21.9           | Small Fiddler Crab ミニシオマネキ | getting the "crab cycle" at the start of the level is fast but definitely not required, especially when learning |
 | 26.9           | Soy Sauce Bottle ショウユビン     |                                                                                                                  |
@@ -18,11 +21,13 @@ Overworld Location: Up
 | 122.6          | Ceiling Light デンキ              | we don't currently get this in the route, but it's still worth knowing the size                                  |
 | 141.1          | Sidewalk Marker ホドウクイ        | 141.7 before the markers and the tricycle gets you to goal size                                                  |
 
-
 Size Milestones
 ---
 | Size 大小 (cm) | Notes                                                                                                             | のてす                                                                                                |
 | -------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 13.8           | + Qual Chick (x2) = Big Takoyaki                                                                                  |                                                                                                       |
+| 17.63          | + Hard Eraser (x2) + Film (x2) Mandarin Peel = 18 before mousetrap                                                           |                                                                                                       |
+| 26.5           | + Small Fiddler Crab = Soy Sauce Bottle                                                                                                                  |                                                                                                       |
 | 78.6           | + Shopping Basket + Watermelon(x6) + Lucky Cat + Monster Melon = 90.3                                             | + カイモノカゴ + スイカ(x6) + マネキネコ + デカメロン = 90.3                                          |
 | 80.2           | + Shopping Basket + Watermelon(x6) = 90.3                                                                         | + カイモノカゴ + スイカ(x6) = 90.3                                                                    |
 | 90.3           | + Price Tag \[198\] = 92.65                                                                                       | + ネフダ \[198\] = 92.65                                                                              |
@@ -30,19 +35,7 @@ Size Milestones
 | 110.7          | + 8th Step(x11) = Ceiling Light (122.6)                                                                           | + ８ダンメ(x11) = デンキ (122.6)                                                                      |
 
 
-10 cm -> 11.9 after Ping Pong Balls
-- there's soap at the start
-- [[13cm7.552mm]] + Quail Chick(x2) = Big Takoyaki (13cm9mm
-- 16.7 after two after doghouse
-	- two eggs right before dog house
-- 17.63 before mandarin peel or takoyaki needed
-- can skip the first two Big Takoyaki [MAS 5 Start - Shamana](https://clips.twitch.tv/CrispyPhilanthropicWolfPupper-L6pwqCQzsQIAMXn3)
 - get left side teacups going up
 - 26.6 + crab = soy
-- [[26cm5.034mm]] + Small Fiddler Crab(x1) = Soy Sauce Bottle (26cm9mm)
-- there's a rake in sandbox for big size
-- pipe at the end instead of getting yellow pole
+- there's a rake in sandbox behind the slide
 - can hit speakers from center to get both
-
-- (MAS5): [[17cm7.878mm]] + Hard Eraser(x2), Film(x2), ??? (x0) = Teacup (18cm)
-- (MAS5): [[17cm6.326mm]] + Hard Eraser(x2), Film(x2), Mandarin Peel(x1) = Teacup (18cm)

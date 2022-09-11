@@ -1,7 +1,8 @@
 # MAS2
 
 Overworld Location: Down-Left
-# Sizes
+Sizes
+---
 | Size 大小 (cm) | Object                 | Notes |
 | -------------- | ---------------------- | ----- |
 | 6              | Candy　アメ            |       |
@@ -15,15 +16,9 @@ Size Milestones
 | -------------- | ----------------------- | ----------------------- |
 | 7.5            | + Magnet (x3) = Parsley | + ジシャク(x3) = パセリ |
 
-- If basket, roll up a little before boosting
+- Can spawn in basket or on mosquito coil
+	- If basket, roll up the edge a little before boosting
 - Follow Gum & Caramel line to get 6.0 for Candy
-	- Hit gum from side
+	- gum can mess your shape up, so get from the very edge or center
 - 7.5 for Magnets
 	- get Parsley by turning to the left while falling
-	- get Blocks and Batteries
-- go up ramp to table
-- get erasers on the way down
-- go up cement blocks to finish
-
-- there’s more parsley on the table. Skip some things on the way?
-- https://clips.twitch.tv/HungrySolidStingrayDerp-zQPgPX-wgLU-3t2O vault at end for speed

@@ -2,8 +2,8 @@
 
 Overworld Location: Up
 
-## Sizes
-
+Sizes
+---
 | Size 大小 (cm) | Object                               | Notes       |
 | -------------- | ------------------------------------ | ----------- |
 | 115.6          | Flower Pot (Yellow) オハナ           |             |
@@ -32,20 +32,21 @@ Overworld Location: Up
 | 24382.1        | Scallop Island ホタテジマ            |             |
 | 27763.9        | Splashy Island ピチピチジマ          |             |
 
-## Size Milestones
-
-| Size 大小 (cm) | Notes                                                 | のてす |
-| -------------- | ----------------------------------------------------- | ------ |
-| 258            | This size is good before bikes                        |        |
-| 282            | After signs                                           |        |
-| 300            | Get this size on pipes to setup a good train cycle    |        |
-| 329            | When going through green gates and arcade machines    |        |
-| 401            | Must get statue in middle if below this size          |        |
-| 868.3115       | + Train = Cage                                        |        |
-| 1121.73        | + Huge Falling Rock x2 = Mushroom (L)                 |        |
-| 1162           | + Huge Falling Rock = Mushroom (L)                    |        |
-| 1430.9         | + Tall Totem Pole + Telephone Pole = Smokestack Brown |        |
-| 1432.43        | + Tall Totem Pole = Smokestack Brown                  |        |
+Size Milestones
+---
+| Size 大小 (cm) | Notes                                                       | のてす |
+| -------------- | ----------------------------------------------------------- | ------ |
+| 258            | This size is good before bikes                              |        |
+| 282            | After signs                                                 |        |
+| 300            | Get this size on pipes to setup a good train cycle          |        |
+| 329            | When going through green gates and arcade machines          |        |
+| 401            | Must get Spirt of Fun (statue) in middle if below this size |        |
+| 868.3115       | + Train = Cage                                              |        |
+| 1121.73        | + Huge Falling Rock x2 = Mushroom (L)                       |        |
+| 1162           | + Huge Falling Rock = Mushroom (L)                          |        |
+| 1430.9         | + Tall Totem Pole + Telephone Pole = Smokestack Brown       |        |
+| 1432.43        | + Tall Totem Pole = Smokestack Brown                        |        |
+| 12000          | Needed when crossing bridge after Cranes                    |        |
 
 ![moon house sizes](https://media.discordapp.net/attachments/232269732735221760/735598820926291978/moonhouses.png?width=999&height=510)
 
@@ -53,11 +54,4 @@ Overworld Location: Up
 - Can skip corner red house
 - Only need big enough for factory and don't necessarily need the oil drums
 - At 3200 fall off [slope for speed](https://clips.twitch.tv/RoughPiercingChamoisSuperVinlin-bEkIhEZXIOKjk8KS)
-- Crossing bridge at 12300
-- Shamana is at 3:49 getting cages
-- Spirit of Fun: 3m56cm3mm
-- After pachinko, get
-- Get turntables if waiting on train
-- Can skip trees under bridge, just bonk flip and leave
-- 91m building is possible to get and allows skipping large section of next area
-  - Game1t did this in his 31:12 pb
+- Get turntables if train is really far away
