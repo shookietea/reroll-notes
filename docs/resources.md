@@ -7,8 +7,7 @@ General
 - [Size bottlenecks](https://docs.google.com/spreadsheets/d/10kvfrl3bnAh3d6O-J4gTatyU2ucK0oOSiQl_AaBUf3c/edit#gid=0)
 	- this information also exists within the individual level pages on the left
 - [Practice Mod Docs](https://github.com/misoelegant/rpm/tree/master/il-practice-mod)
-- [moon house sizes](https://media.discordapp.net/attachments/232269732735221760/735598820926291978/moonhouses.png?width=999&height=510)
-- [[ps5 analog sticks]]
+- [input display](https://www.speedrun.com/katamarireroll/thread/7rw78)
 - [reroll dump](https://docs.google.com/spreadsheets/d/1zg9WRiJamj6iUKuL2iTY1BhXfhD0HwLHwCNO-9HNe6s/edit#gid=453850959)
 - [Katamari Damacy Community IL spreadsheet](https://docs.google.com/spreadsheets/d/1BcpKA7JOyqFPfJxIuy7BT0nc-R2dCBMEEiQkYXK05cA/edit#gid=1667325440)
 - [Split time analysis | therun.gg](https://therun.gg/game/Katamari%20Damacy%20Reroll)

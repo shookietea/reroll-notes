@@ -31,6 +31,7 @@ Overworld Location: Right-Down
 	- keep turning left until falling past wing of totem pole
 	- turn right at the end to fix camera and steer the bounce
 	- want to be fairly far back and to the left to get a good bounce towards welcome mats
+	- there's a slope below that we aim for
 - Double Punk: 2m22cm2mm
 - ![[Pasted image 20220224200116.png]]
 - there's a line of towel guys after if not close to 5m
