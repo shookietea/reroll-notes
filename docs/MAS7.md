@@ -22,7 +22,14 @@ Sizes
 | 540.3          | Compact ケイジドウシャ                   | red car                                                         |
 | 544.5          | Light Truck ケイトラ                     | white truck                                                     |
 
-- (MAS7): [[68cm2.173mm]] + Pineapple(x3) = Kettle (72cm9mm)
-- Don’t need first kettle
+
+Size Milestones
+---
+| Size 大小 (cm) | Notes                       |  のてす   |
+| --------- | --------------------------- | --- |
+| 187.3      | + Water Tap = Bicycle |     |
+
+Notes
+---
+- Can skip first kettle
 - Getting trash cans and small bushes before bikes skips propane tanks
-- (MAS7): [[1m87cm3.451mm]] + Water Tap(x1) = 1m88cm8mm

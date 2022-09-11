@@ -35,7 +35,8 @@ Size Milestones
 | 110.7          | + 8th Step(x11) = Ceiling Light (122.6)                                                                           | + ８ダンメ(x11) = デンキ (122.6)                                                                      |
 
 
+Notes
+---
 - get left side teacups going up
-- 26.6 + crab = soy
 - there's a rake in sandbox behind the slide
 - can hit speakers from center to get both

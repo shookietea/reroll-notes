@@ -16,6 +16,8 @@ Size Milestones
 | -------------- | ----------------------- | ----------------------- |
 | 7.5            | + Magnet (x3) = Parsley | + ジシャク(x3) = パセリ |
 
+Notes
+---
 - Can spawn in basket or on mosquito coil
 	- If basket, roll up the edge a little before boosting
 - Follow Gum & Caramel line to get 6.0 for Candy

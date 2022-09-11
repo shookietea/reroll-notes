@@ -27,6 +27,8 @@ Sizes
 | 2848.1         | Trawler ダイギョセン              | the bigger boats in the water (in case you fall)                                                |
 | 2985           | Stingray Building クマノミビル    |                                                                                                 |
 
+Notes
+---
 - [start vid](https://clips.twitch.tv/FaithfulEntertainingPineapplePanicBasket-v4Hh6efq4XU6xftb) - pickup plants and angle off for bounce
 - [MAS 9 off totem pole bounce](https://clips.twitch.tv/AggressiveAliveGuanacoNerfBlueBlaster-w2kXDAmWNtFpDl2j) - holdenpnw 
 - bonk into pink building with speed to end bounce speed and go correct direction while getting two mats 

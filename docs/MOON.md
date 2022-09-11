@@ -48,6 +48,8 @@ Size Milestones
 | 1432.43        | + Tall Totem Pole = Smokestack Brown                        |        |
 | 12000          | Needed when crossing bridge after Cranes                    |        |
 
+Notes
+---
 ![moon house sizes](https://media.discordapp.net/attachments/232269732735221760/735598820926291978/moonhouses.png?width=999&height=510)
 
 - train cycle starts at 3m

@@ -18,4 +18,6 @@ Sizes
 | 79.6           | Shopping Basket カイモノカゴ              |       |
 | 85.3           | Cucumber Plant キュウリエン               |       |
 
+Notes
+---
 - can skip going in bathroom in no-boost and only get slippers

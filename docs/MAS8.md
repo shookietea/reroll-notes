@@ -36,4 +36,7 @@ Size Milestones
 | --------- | --------------------------- | --- |
 | 422+      | Entering water after statue |   Decent size to shoot for getting the fish flag  |
 
-- Oden > Kiddie Spade > Water Gun
+Notes
+---
+- When in the sandbox for size
+	- Oden > Kiddie Spade > Water Gun

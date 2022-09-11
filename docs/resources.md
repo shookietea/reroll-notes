@@ -11,17 +11,13 @@ General
 - [reroll dump](https://docs.google.com/spreadsheets/d/1zg9WRiJamj6iUKuL2iTY1BhXfhD0HwLHwCNO-9HNe6s/edit#gid=453850959)
 - [Katamari Damacy Community IL spreadsheet](https://docs.google.com/spreadsheets/d/1BcpKA7JOyqFPfJxIuy7BT0nc-R2dCBMEEiQkYXK05cA/edit#gid=1667325440)
 - [Split time analysis | therun.gg](https://therun.gg/game/Katamari%20Damacy%20Reroll)
-- splits.io
+- https://splits.io
 	- Worse version of therun.gg but integrates with speedrun.com
-- VSync Glitch
-	- Make sure you have VSYNC turned OFF
-	- Start screen only accepts inputs on certain frames, and VSync lowers the frames which can accept input
-	- Causes time loss trying to start a run
 
 Any%
 ---
 - [Any% 25:16](https://youtu.be/76CWNB9VwQI) - Japanese commentary (Harutomo)
--  Any% Route Walkthrough (adapt for No-Boost)
+-  Any% Route Walkthrough
 	- [Any% JP (original)](https://docs.google.com/spreadsheets/d/1c8KWPhAsYNAzDNRmjUyj27HiBqIP9OWXVu8wCx4tVXA/edit#gid=847154455) Original by sisuka, jp text by Harutomo
 	- [Any% EN (translated)](https://docs.google.com/spreadsheets/d/1e_7cXlGeKzbmBQ6DMrWnJ5Sq_Z73WREiaOuaOUQ-GAc/edit?usp=sharing) English translation by Google
 

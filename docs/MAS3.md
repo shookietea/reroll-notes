@@ -16,6 +16,8 @@ Sizes
 | 44.6           | Planting Fence ミニサク         |       |
 | 46.5           | Flower Pot \[Brown\] ハナコバチ |       |
 
+Notes
+---
 
 ![[Pasted image 20220704233343.png]]
 
