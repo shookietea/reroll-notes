@@ -33,19 +33,24 @@ nav:
 
 theme:
   name: material
-  palette: 
+  features:
+    - navigation.tracking
+    - navigation.expand
+  palette:
     # Palette toggle for light mode
-    - scheme: default
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
       toggle:
-        icon: material/brightness-7 
+        icon: material/brightness-7
         name: Switch to dark mode
 
     # Palette toggle for dark mode
-    - scheme: slate
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-        
+
   highlightjs: true
   hljs_languages:
     - yaml
