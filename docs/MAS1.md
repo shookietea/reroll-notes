@@ -22,7 +22,9 @@
 - Releasing your sticks after boosting slows down your katamari and helps you control the movement on the first boost
 - Hitting the slope on the table generates more speed
   this angle allows you to set up to quickly turn after grabbing the biscuit stack
-  ![mas1 biscuit turn](https://cdn.discordapp.com/attachments/738268798150508606/940048920086720512/mas1_biscuit_turn.gif)
+
+![mas1 biscuit turn](https://cdn.discordapp.com/attachments/738268798150508606/940048920086720512/mas1_biscuit_turn.gif)
+
 - pumping the left stick to turn quickly while holding the right stick forward can set you up for a fast sunkir route
 - and avoids bouncing away
 - The turn still works for the wall route
