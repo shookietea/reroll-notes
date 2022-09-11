@@ -10,6 +10,7 @@ nav:
   - 'Resources':
       - 'resources.md'
       - 'Overworld Map.md'
+      - 'Bot Commands': 'bot-commands.md'
   - 'Levels':
       - 'MAS1.md'
       - 'MAS2.md'
