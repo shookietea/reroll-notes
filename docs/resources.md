@@ -5,6 +5,7 @@ General
 - [discord](https://discord.com/invite/NEJU2JT)
 - [noclip](https://noclip.website/#katamari_damacy) - level visualization
 - [Size bottlenecks](https://docs.google.com/spreadsheets/d/10kvfrl3bnAh3d6O-J4gTatyU2ucK0oOSiQl_AaBUf3c/edit#gid=0)
+	- this information also exists within the individual level pages on the left
 - [Practice Mod Docs](https://github.com/misoelegant/rpm/tree/master/il-practice-mod)
 - [moon house sizes](https://media.discordapp.net/attachments/232269732735221760/735598820926291978/moonhouses.png?width=999&height=510)
 - [[ps5 analog sticks]]
@@ -30,9 +31,11 @@ Any% No-Boost
 - [No-Boost Any% - grass guide](https://www.twitch.tv/videos/539063804) - English commentary
 - [No-Boost Any% - Harutomo](https://www.twitch.tv/videos/1289867127?t=0h0m1s) - Japanese commentary
 
-100%
+1438 (100%)
 ---
-- [100% Object Locations](https://docs.google.com/spreadsheets/d/13WdWXcJ-UEKn9ZP2S0Q32AYGMbOTfePucvucg3bJszA/edit#gid=0)
+- [All Object Locations](https://docs.google.com/spreadsheets/d/13WdWXcJ-UEKn9ZP2S0Q32AYGMbOTfePucvucg3bJszA/edit#gid=0)
+- [pimittens' guide thread](https://www.speedrun.com/katamarireroll/thread/7do2m)
+- Overworld map (Reroll): ![https://i.imgur.com/0hgEVGk.png]
 
 Cool noclip shots
 ---
