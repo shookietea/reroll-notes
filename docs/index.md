@@ -1,36 +1,29 @@
-# Feel the Katamari, Be the Katamari
-
-Use the directory to the left to navigate.
-
-## Learning
+# Learning
 
 This site is meant to collect information that's immediately relevant to people who want to start learning the KD speedrun.
 
-### Important general information
+## General
+- VSync introduces a significant amount of input lag, so it's highly recommended to turn it off. 
+   - To change the VSync setting, interact with the bird on the overworld and press the "Display Settings" hotkey on the bottom of the screen. 
+- The [practice mod](https://github.com/misoelegant/rpm/tree/master/il-practice-mod) is highly recommended to learn and practice the game. 
+    - Install the practice mod with the [mod launcher](https://github.com/misoelegant/rpm/tree/master/updater).
+    - Feel free to ask questions about the mod (or report bugs) in #mod-discussion on the discord server.
+- The [RTA mod](https://github.com/misoelegant/rpm/tree/master/rta-mod) is recommended for full-game runs because of its standardized, built-in turbo. It also includes optional QoL features that don't affect the speedrun (e.g. playing as a cousin or displaying level times during the credits).
 
-- Any% timing ends on the first frame you reach 300m, which can make it difficult to accurately stop the timer at the end of a run. It's recommended to use the autosplitter to handle this.
+## Timing
+- Any% timing starts when the "start a new game" prompt disappears and ends when 300m is reached in Moon.
+- It's recommended to use the [autosplitter](https://www.speedrun.com/katamarireroll/resources) to automatically stop your timer on the correct frame.
 
-- Use the second right trigger (R2 on PS2/PS3, RT on 360, ZR on Switch) on the overworld to fly to Earth between levels.
+## Menuing
+- Always use the **second** right trigger (R2 on PS2/PS3, RT on 360, ZR on Switch) on the overworld to fly to Earth between levels. 
+- Always use **Start** to skip king dialogs during levels. This applies both to the dialog at the start of each level and to the mid-level dialogs that open a new area.
+- Mashing **Start** in addition to A slightly speeds up all post-level dialogs (example [here](https://www.youtube.com/watch?v=NNNs2uJ5Bzo)).
+- The "press start" dialog at the beginning of the tutorial is bugged and **ignores** most input. The best way to get past it is to mash **both Start and A** until it advances.
+    - Higher game FPS is **worse** for advancing the prompt. If you find the prompt consistently difficult to advance, check your FPS and externally cap it to 300 if it's much higher than that.
 
-- Skip king text during levels with Start instead of X or A.
+## Getting ready for your first run
 
-- Turn off VSync, which introduces noticeable input lag and makes the game much harder to speedrun. To turn it off, interact with the bird on the overworld -> "Display Settings" hotkey on the bottom of the screen -> V Sync off.
-
-**Note:** Some players with 144 Hz monitors have found no input lag with VSync on. If you have a 144 Hz monitor then it's worth at least trying how it feels with it on, because it prevents the prompt glitch mentioned above.
-
-- At the start of a run (with VSync off), the button prompt that begins the tutorial is bugged and only accepts input about 5-10% of the time. You can maximize your chances of getting past the prompt by mashing both the "start" and "text advance" buttons, as long as you're pressing them at different times. (This is the only bugged prompt in the game; for all others you only need one button.) If you're on PC, it's easy to hold A on controller and mash Tab (start) on keyboard.
-
-**Note:** Higher game FPS makes the prompt harder to advance, and the framerate is uncapped. If you're having a hard time advancing the prompt, cap your game FPS to 300.
-
-- We recommend using our practice mod when learning and practicing individual levels (ILs). The mod can't be used for full game runs, but it cuts out a lot of overworld movement when practicing, especially for the shorter levels. The documentation and download link for the practice mod launcher is in [resources](./resources.md).
-
-- The RTA mod is also recommended for full-game runs for the built-in A button turbo. It also offers several other quality of life improvements that don't materially affect the speedrun.
-
-- The bot messages in stream-announcements automatically notify when someone on our list of runners goes live with a Katamari game. All runners are welcome to be added - just ask!
-
-### Getting ready for your first run
-
-Currently, the easiest first step towards learning the game would probably be to play along with this no boost run with live commentary found here: https://www.twitch.tv/videos/539063804
+Currently, the easiest first step towards learning the game would be to play along with this no boost run with live commentary found here: https://www.twitch.tv/videos/539063804
 
 Your goal for each level should be to be able to play through it from memory a couple of times in a row without getting lost or stuck.
 
