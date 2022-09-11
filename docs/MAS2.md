@@ -23,9 +23,7 @@ Size Milestones
 	- get Blocks and Batteries
 - go up ramp to table
 - get erasers on the way down
-- snake for speed to socks
-- 16.5 for Tomato
 - go up cement blocks to finish
 
 - there’s more parsley on the table. Skip some things on the way?
-- https://clips.twitch.tv/HungrySolidStingrayDerp-zQPgPX-wgLU-3t2O clip if you want Speed down pants at end
+- https://clips.twitch.tv/HungrySolidStingrayDerp-zQPgPX-wgLU-3t2O vault at end for speed

@@ -1,7 +1,9 @@
 # MAS3
 
 Overworld Location: Down-Left
-# Sizes
+
+Sizes
+---
 | Size 大小 (cm) | Object                          | Notes |
 | -------------- | ------------------------------- | ----- |
 | 12             | Monster Cherries デカサクランボ |       |
@@ -41,3 +43,9 @@ https://youtu.be/QPnOBPnDslA?t=55
 - 40cm ish before heading up stairs
 - Bullhorn to left of top steps
 - End on Planter fences into Flower Pot
+
+https://www.youtube.com/watch?v=Tiy6hvwedcU
+- route from game1t
+	- if you miss the flower line and butterflies
+	- this is a good alternative and skips eggplant
+	- get the line of toothbrushes if too small for can
