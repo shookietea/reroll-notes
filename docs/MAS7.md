@@ -2,9 +2,9 @@
 
 Overworld Location: Right
 
-Sizes
----
-| Size 大小 (cm) | Object                                   | Notes                                                           |
+## Sizes
+
+| Size 大小 (cm) | Object                                   | English                                                         |
 | -------------- | ---------------------------------------- | --------------------------------------------------------------- |
 | 65             | Pineapple パイナップル                   |                                                                 |
 | 80.4           | Delivery Box オカモチ                    |                                                                 |
@@ -22,14 +22,13 @@ Sizes
 | 540.3          | Compact ケイジドウシャ                   | red car                                                         |
 | 544.5          | Light Truck ケイトラ                     | white truck                                                     |
 
+## Size Milestones
 
-Size Milestones
----
-| Size 大小 (cm) | Notes                       |  のてす   |
-| --------- | --------------------------- | --- |
-| 187.3      | + Water Tap = Bicycle |     |
+| Size 大小 (cm) | English               | 日本語 |
+| -------------- | --------------------- | ------ |
+| 187.3          | + Water Tap = Bicycle |        |
 
-Notes
----
+## Notes
+
 - Can skip first kettle
 - Getting trash cans and small bushes before bikes skips propane tanks

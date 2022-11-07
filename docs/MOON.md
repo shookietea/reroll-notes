@@ -2,9 +2,9 @@
 
 Overworld Location: Up
 
-Sizes
----
-| Size 大小 (cm) | Object                               | Notes       |
+## Sizes
+
+| Size 大小 (cm) | Object                               | English     |
 | -------------- | ------------------------------------ | ----------- |
 | 115.6          | Flower Pot (Yellow) オハナ           |             |
 | 132.6          | Vanilla Cone バニラ                  |             |
@@ -32,9 +32,9 @@ Sizes
 | 24382.1        | Scallop Island ホタテジマ            |             |
 | 27763.9        | Splashy Island ピチピチジマ          |             |
 
-Size Milestones
----
-| Size 大小 (cm) | Notes                                                       | のてす |
+## Size Milestones
+
+| Size 大小 (cm) | English                                                     | 日本語 |
 | -------------- | ----------------------------------------------------------- | ------ |
 | 258            | This size is good before bikes                              |        |
 | 282            | After signs                                                 |        |
@@ -48,8 +48,8 @@ Size Milestones
 | 1432.43        | + Tall Totem Pole = Smokestack Brown                        |        |
 | 12000          | Needed when crossing bridge after Cranes                    |        |
 
-Notes
----
+## Notes
+
 ![moon house sizes](https://media.discordapp.net/attachments/232269732735221760/735598820926291978/moonhouses.png?width=999&height=510)
 
 - train cycle starts at 3m
