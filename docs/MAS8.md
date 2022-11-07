@@ -32,9 +32,11 @@ Sizes
 
 Size Milestones
 ---
-| Size 大小 (cm) | Notes                       |  のてす   |
-| --------- | --------------------------- | --- |
-| 422+      | Entering water after statue |   Decent size to shoot for getting the fish flag  |
+| Size 大小 (cm) | Notes                               | のてす                                         |
+| -------------- | ----------------------------------- | ---------------------------------------------- |
+| 27.5           | Need fried chicken for Kiddie Rakes |                                                |
+| 27.6           | Only need Takoyaki for Kiddie Rakes |                                                |
+| 422+           | Entering water after statue         | Decent size to shoot for getting the fish flag |
 
 Notes
 ---
