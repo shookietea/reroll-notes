@@ -46,4 +46,4 @@ Overworld Location: Down-Right
 - getting Monster Cherries x3 is the same as another Kiddie Spade, making the spade grouped with cherries is valuable
 - ![sandbox guidelines for no-boost](attachments/mas8-sandbox-noboost-helper.png)
   - Item priority for size given:
-    - Wooden Gavel > Oden > Kiddie Spade > Monster Cherries x3 > Water Pistol > Orange Juice \[Can\]
+    - Wooden Gavel > Kokeshi Doll > Oden > Kiddie Spade > Monster Cherries x3 > Water Pistol > Orange Juice \[Can\]
