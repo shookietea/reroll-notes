@@ -45,6 +45,6 @@ After you're comfortable with the route, here's a few things you can try to star
 
 - If you want to transition from no boost to using boosts, start including easy-looking boosts into your route to get more comfortable with the boost input (mostly when there's not a lot to pick up and you can afford to be a little inaccurate). Boosting is very difficult and it's probably going to suck for a while, but failing a lot is the only way to improve. Every time you do it you're getting a little bit better.
 
-- Use the size bottleneck list in the individualk level pages or the spreadsheet in [resources](./resources.md) to help diagnose when you're unexpectedly too small to roll something up. **A big part of optimizing your play is anticipating these bottleneck sizes and making sure you won't be too small for anything coming up.**
+- Use the size bottleneck list in the individual level pages or the spreadsheet in [resources](./resources.md) to help diagnose when you're unexpectedly too small to roll something up. **A big part of optimizing your play is anticipating these bottleneck sizes and making sure you won't be too small for anything coming up.**
 
 - If you feel like you're hitting a wall and can't improve, try a different category or even just take a break for a while. Remember the golden rules of Katamari speedruns: have fun and be yourself!
