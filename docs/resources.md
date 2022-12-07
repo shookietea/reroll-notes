@@ -25,6 +25,7 @@ Any% No-Boost
 ---
 - [No-Boost Any% - grass guide](https://www.twitch.tv/videos/539063804) - English commentary
 - [No-Boost Any% - Harutomo](https://www.twitch.tv/videos/1289867127?t=0h0m1s) - Japanese commentary
+- [No-Boost Any% - game1t (most recent)](https://www.twitch.tv/collections/MxiHZdJPLheJ4Q) - English commentary
 
 1438 (100%)
 ---
