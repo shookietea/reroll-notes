@@ -2,17 +2,18 @@
 
 ## Sizes
 
-| Size 大小 (cm) | Object                             | English |
-| -------------- | ---------------------------------- | ------- |
-| 5.8            | Cookie Sandwich 「クッキーサンド」 |         |
+| Size 大きさ (cm) | Object                             | English |
+| ---------------- | ---------------------------------- | ------- |
+| 5.8              | Cookie Sandwich 「クッキーサンド」 |         |
 
 ## Size Milestones
 
-| Size 大小 (cm) | English                 | 日本語 |
-| -------------- | ----------------------- | ------ |
-| 9.4            | + Mandarin Slices = End |        |
+| Size 大きさ (cm) | English                 | 日本語 |
+| ---------------- | ----------------------- | ------ |
+| 9.4              | + Mandarin Slices = End |        |
 
 ## Notes (Any%)
+
 ### Optimization Strategies for Sub 15 (enzor)
 
 ![Bounce off chocolate box](https://cdn.discordapp.com/attachments/738268798150508606/940037345875492874/mas1_caramel_compressed.gif)
@@ -29,6 +30,7 @@
 - The turn still works for the wall route
 
 ## Notes (No Boost)
+
 ### [No-Boost Ending on Caramel](https://youtu.be/3B4_QlK_49I?t=17)
 
 if you're 9.1 before the first double cookie you can end on a caramel instead of the last eyedrops:
@@ -36,7 +38,9 @@ if you're 9.1 before the first double cookie you can end on a caramel instead of
 ![map of above](https://i.imgur.com/WlnvJKQ.png)
 
 ## Routes
+
 ### Sunkir Route (Any%) for Sub 13
+
 Warning: This Route is challenging and will take hours to get consistent.
 Making sure you're at the right angle before trying the sunkir boost is very important, don't rush it when learning or in RTA. It's worth taking the extra 0.3-0.5 seconds to fix your angle rather than missing objects and being forced to do a backup to make up size.
 Sunkir route is incredibly tight in size, here grass misses only 1 cookie and is exact size to finish

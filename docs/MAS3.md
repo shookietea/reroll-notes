@@ -4,17 +4,17 @@ Overworld Location: Down-Left
 
 ## Sizes
 
-| Size 大小 (cm) | Object                          | English |
-| -------------- | ------------------------------- | ------- |
-| 12             | Monster Cherries デカサクランボ |         |
-| 17.8           | Eggplant ナストマトエン         |         |
-| 18.2           | Canned Mackerel サバカン        |         |
-| 21.1           | Roman Candle フキダシハナビ     |         |
-| 29             | Red Paint アカペンキ            |         |
-| 34.1           | PET Bottle ネコヨケペットボトル |         |
-| 44.7           | Kiddie Bucket コドモバケツ      |         |
-| 44.6           | Planting Fence ミニサク         |         |
-| 46.5           | Flower Pot \[Brown\] ハナコバチ |         |
+| Size 大きさ (cm) | Object                          | English |
+| ---------------- | ------------------------------- | ------- |
+| 12               | Monster Cherries デカサクランボ |         |
+| 17.8             | Eggplant ナストマトエン         |         |
+| 18.2             | Canned Mackerel サバカン        |         |
+| 21.1             | Roman Candle フキダシハナビ     |         |
+| 29               | Red Paint アカペンキ            |         |
+| 34.1             | PET Bottle ネコヨケペットボトル |         |
+| 44.7             | Kiddie Bucket コドモバケツ      |         |
+| 44.6             | Planting Fence ミニサク         |         |
+| 46.5             | Flower Pot \[Brown\] ハナコバチ |         |
 
 ## Notes
 
