@@ -32,7 +32,7 @@ nav:
       - 'North Star.md'
       - 'Make the moon': 'MOON.md'
   - 'Mechanics':
-    - 'Boosts': 'boosts.md'
+    - 'Boosts': 'mechanics/boosts/boosts.md'
 
 theme:
   name: material

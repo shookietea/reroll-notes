@@ -1,12 +1,12 @@
-## Gachas, Spinning, and Boosting Mechanics
-
 ### Gachas
 
-A **gacha** is what we call an input where one stick is up and the other is down. If we say the neutral analog input has height 0, the top input has height +1, and the bottom input has height -1, a gacha specifically occurs when one stick is above +0.25 and the other stick is below -0.25 (so about 1/4 of the way from the center to the edge). 
+A **gacha** is what we call an input where one stick is up and the other is down. A **left gacha** turns left (left stick down, right stick up) and a **right gacha** turns right (left stick up, right stick down). Whether a stick is "up" or "down" depends only on its height, as shown below. 
 
-TODO: picture of analog circle with gacha thresholds (horizontal lines) marked. maybe do this in wolframalpha lol
+Specifically, with analog input scaled between -1 and 1, a y-coordinate above 0.25 is an "up" input and below -0.25 is a "down" input.
 
-A **left gacha** is when the left stick is down and the right stick is up (because you're turning left) and a **right gacha** is when the left stick is up and the right stick is down.
+![gacha zones diagram](./gacha-zones.png)
+
+A gacha occurs on the *first frame* when *both sticks* are in a gacha zone: if one stick is already up, a gacha occurs the first frame the other stick is down.
 
 TODO: slow-motion gif of input display + y gauges captured from mod with gacha thresholds
 
@@ -44,8 +44,9 @@ TODO: gif of resetting gacha count out of boost by holding a turn, then snaking 
 ### Spinning
 
 A **spin** occurs when your gacha count is 3. The spin will continue until either:
-- The gacha timer hits 0 and your gacha count resets to 0.
-- Your gacha count becomes high enough that you boost instead.
+
+- the gacha timer hits 0 and your gacha count resets to 0, or
+- your gacha count becomes high enough that you boost instead.
 
 TODO: slow-motion gif of spin occurring with gacha count
 
@@ -75,9 +76,10 @@ TODO: slow-motion gif of mas7 pinch
 
 TODO: slow-motion gif of holding a turn to reset gacha count
 
-The gacha count also resets when you 
-- become airborne
-- collide with anything you can't pick up
+The gacha count also resets when you:
+
+- become airborne, or
+- collide with anything you can't pick up.
 
 These mechanics can be exploited during specific boosts to minimize energy loss.
 
