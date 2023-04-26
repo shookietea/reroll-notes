@@ -34,7 +34,6 @@ nav:
       - 'Taurus.md'
       - 'Virgo.md'
       - 'North Star.md'
-      - 'Make the moon': 'MOON.md'
   - 'Mechanics':
     - 'Boosts': 'mechanics/boosts/boosts.md'
 
