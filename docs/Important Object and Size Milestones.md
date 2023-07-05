@@ -1,14 +1,20 @@
-# MAS 1
+# [MAS 1](./mas1.md)
 
-## Important Object Sizes
+## Important Objects
 
 | Size 大きさ (cm) | Object                         | English |
 | ---------------- | ------------------------------ | ------- |
 | 5.8              | Cookie Sandwich クッキーサンド |         |
 
-# MAS2
+## Milestones
 
-## Important Object Sizes
+| Size 大きさ (cm) | English                 | 日本語 |
+| ---------------- | ----------------------- | ------ |
+| 9.4              | + Mandarin Slices = End |        |
+
+# [MAS2](./mas2.md)
+
+## Important Objects
 
 | Size 大きさ (cm) | Object                 | English |
 | ---------------- | ---------------------- | ------- |
@@ -17,15 +23,15 @@
 | 12.7             | Blue Sock アオクツシタ |         |
 | 16.5             | Tomato トマト          |         |
 
-## Size Milestones
+## Milestones
 
 | Size 大きさ (cm) | English                 | 日本語                  |
 | ---------------- | ----------------------- | ----------------------- |
 | 7.5              | + Magnet (x3) = Parsley | + ジシャク(x3) = パセリ |
 
-# MAS3
+# [MAS3](./mas3.md)
 
-## Important Object Sizes
+## Important Objects
 
 | Size 大きさ (cm) | Object                          | English |
 | ---------------- | ------------------------------- | ------- |
@@ -39,9 +45,9 @@
 | 44.6             | Planting Fence ミニサク         |         |
 | 46.5             | Flower Pot \[Brown\] ハナコバチ |         |
 
-# MAS4
+# [MAS4](./mas4.md)
 
-## Important Object Sizes
+## Important Objects
 
 | Size 大きさ (cm) | Object                                    | English |
 | ---------------- | ----------------------------------------- | ------- |
@@ -57,9 +63,9 @@
 | 79.6             | Shopping Basket カイモノカゴ              |         |
 | 85.3             | Cucumber Plant キュウリエン               |         |
 
-# MAS5
+# [MAS5](./mas5.md)
 
-## Important Object Sizes
+## Important Objects
 
 | Size 大きさ (cm) | Object                            | English                                                                                                          |
 | ---------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -77,19 +83,22 @@
 | 122.6            | Ceiling Light デンキ              | we don't currently get this in the route, but it's still worth knowing the size                                  |
 | 141.1            | Sidewalk Marker ホドウクイ        | 141.7 before the markers and the tricycle gets you to goal size                                                  |
 
-## Size Milestones
+## Milestones
 
 | Size 大きさ (cm) | English                                                                                                           | 日本語                                                                                                |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 13.8             | + Qual Chick (x2) = Big Takoyaki                                                                                  |                                                                                                       |
+| 17.63            | + Hard Eraser (x2) + Film (x2) Mandarin Peel = 18 before mousetrap                                                |                                                                                                       |
+| 26.5             | + Small Fiddler Crab = Soy Sauce Bottle                                                                           |                                                                                                       |
 | 78.6             | + Shopping Basket + Watermelon(x6) + Lucky Cat + Monster Melon = 90.3                                             | + カイモノカゴ + スイカ(x6) + マネキネコ + デカメロン = 90.3                                          |
 | 80.2             | + Shopping Basket + Watermelon(x6) = 90.3                                                                         | + カイモノカゴ + スイカ(x6) = 90.3                                                                    |
 | 90.3             | + Price Tag \[198\] = 92.65                                                                                       | + ネフダ \[198\] = 92.65                                                                              |
 | 91.3             | + Bucket \[Small\](x6) + Open/Closed Sign + Crow + Daikon Radish(x5) + Drink Crate(x3) + Warning Sign(x2) = 110.7 | + バケツ(x6) + テイキュウビ + カラス + ダイコン(x5) + ビールケース(x3) + トビダシチュウイ(x2) = 110.7 |
 | 110.7            | + 8th Step(x11) = Ceiling Light (122.6)                                                                           | + ８ダンメ(x11) = デンキ (122.6)                                                                      |
 
-# MAS6
+# [MAS6](./mas6.md)
 
-## Important Object Sizes
+## Important Objects
 
 | Size 大きさ (cm) | Object                     | English |
 | ---------------- | -------------------------- | ------- |
@@ -103,7 +112,7 @@
 | 272.1            | Vending Machine ジハンキ   |         |
 | 275.5            | Arcade Machine キョウタイ  |         |
 
-## Size Milestones
+## Milestones
 
 | Size 大きさ (cm)        | English                                                                                                                                                                         | 日本語                                                                                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -111,30 +120,30 @@
 | 165.2                   | + Chicken x3 = White Sheep (167.1)                                                                                                                                              | + ニワトリ x3 = シロヒツジ (167.1)                                                                                                                        |
 | 264.8 after Gas Station | + Squared Shrubbery x2 + Traffic Mirror + Garden Plant (M) x2 + Garden Plant x2 + Vending Machine + Pay Phone + Arcade Machine + Bale of Rice x5 + Tricycle + Balloon Man = 300 | + シカクウエコミ x2 + ミラー + ウエキ x2 + ミニウエキ x2 + ジハンキ + コウシュウデンワ + ジハンキ + コメダワラ x5 + サンリンシャ + フウセンオジサン = 300 |
 
-# MAS7
+# [MAS7](./mas7.md)
 
-## Important Object Sizes
+## Important Objects
 
-| Size 大きさ (cm) | Object                                   | English                                                         |
-| ---------------- | ---------------------------------------- | --------------------------------------------------------------- |
-| 65               | Pineapple パイナップル                   |                                                                 |
-| 89.5             | Chicken ニワトリ                         |                                                                 |
-| 126.1            | Garbage ゴミ                             | helps if small for bike                                         |
-| 126.6            | Garden Lantern トウロウ                  |                                                                 |
-| 188.8            | Bicycle ジテンシャ                       |                                                                 |
-| 224.3            | Squared Shrubbery シカクウエコミ         |                                                                 |
-| 234.8            | Russian Doll (XL) キングマトリョーショカ | bonk to knock out Russian Doll (L) 打つがビッグマトリョーショカ |
-| 272.1            | Vending Machine ジハーン                 |                                                                 |
-| 319.7            | Dairy Cow 乳牛                           |                                                                 |
-| 328.6            | Door トビラ                              | blue entrance park gate                                         |
-| 418              | Small Tree ガイロジュ                    |                                                                 |
-| 525.3            | Swan Boat スワンボート                   |                                                                 |
-| 540.3            | Compact ケイジドウシャ                   | red car                                                         |
-| 544.5            | Light Truck ケイトラ                     | white truck                                                     |
+| Size 大きさ (cm) | Object                                   | English                            | 日本語 |                              |
+| ---------------- | ---------------------------------------- | ---------------------------------- | ------ | ---------------------------- |
+| 65               | Pineapple パイナップル                   |                                    |        |                              |
+| 89.5             | Chicken ニワトリ                         |                                    |        |                              |
+| 126.1            | Garbage ゴミ                             | helps if small for bike            |        |                              |
+| 126.6            | Garden Lantern トウロウ                  |                                    |        |                              |
+| 188.8            | Bicycle ジテンシャ                       |                                    |        |                              |
+| 224.3            | Squared Shrubbery シカクウエコミ         |                                    |        |                              |
+| 234.8            | Russian Doll (XL) キングマトリョーショカ | bonk to knock out Russian Doll (L) |        | 打つがビッグマトリョーショカ |
+| 272.1            | Vending Machine ジハーン                 |                                    |        |                              |
+| 319.7            | Dairy Cow 乳牛                           |                                    |        |                              |
+| 328.6            | Door トビラ                              | blue entrance park gate            |        |                              |
+| 418              | Small Tree ガイロジュ                    |                                    |        |                              |
+| 525.3            | Swan Boat スワンボート                   |                                    |        |                              |
+| 540.3            | Compact ケイジドウシャ                   | red car                            |        |                              |
+| 544.5            | Light Truck ケイトラ                     | white truck                        |        |                              |
 
-# MAS8
+# [MAS8](./mas8.md)
 
-## Important Object Sizes
+## Important Objects
 
 | Size 大きさ (cm) | Object                                 | English                                                                                   |
 | ---------------- | -------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -164,13 +173,15 @@
 
 ## Size Milestones
 
-| Size 大きさ (cm) | English                     | 日本語                                         |
-| ---------------- | --------------------------- | ---------------------------------------------- |
-| 422+             | Entering water after statue | Decent size to shoot for getting the fish flag |
+| Size 大きさ (cm) | English                             | 日本語 |
+| ---------------- | ----------------------------------- | ------ |
+| 27.5             | Need fried chicken for Kiddie Rakes |        |
+| 27.6             | Only need Takoyaki for Kiddie Rakes |        |
+| 405+             | Entering water after statue. This allows you to easily get the Fish flag pole        |        |
 
-# MAS9
+# [MAS9](./mas9.md)
 
-## Important Object Sizes
+## Important Objects
 
 | Size 大きさ (cm) | Object                            | English                                                                                         |
 | ---------------- | --------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -194,9 +205,14 @@
 | 2848.1           | Trawler ダイギョセン              | the bigger boats in the water (in case you fall)                                                |
 | 2985             | Stingray Building クマノミビル    |                                                                                                 |
 
-# MOON
+### Milestones
 
-## Important Object Sizes
+| Size 大きさ (cm) | English                                                     | 日本語 |
+| ---------------- | ----------------------------------------------------------- | ------ |
+| 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback                             |        |
+# [MOON](./moon.md)
+
+## Important Objects
 
 | Size 大きさ (cm) | Object                               | English     |
 | ---------------- | ------------------------------------ | ----------- |
@@ -226,17 +242,18 @@
 | 24382.1          | Scallop Island ホタテジマ            |             |
 | 27763.9          | Splashy Island ピチピチジマ          |             |
 
-## Size Milestones
+## Milestones
 
-| Size 大きさ (cm) | English                                               | 日本語 |
-| ---------------- | ----------------------------------------------------- | ------ |
-| 258              | This size is good before bikes                        |        |
-| 282              | After signs                                           |        |
-| 300              | Get this size on pipes to setup a good train cycle    |        |
-| 329              | When going through green gates and arcade machines    |        |
-| 401              | Must get statue in middle if below this size          |        |
-| 868.3115         | + Train = Cage                                        |        |
-| 1121.73          | + Huge Falling Rock x2 = Mushroom (L)                 |        |
-| 1162             | + Huge Falling Rock = Mushroom (L)                    |        |
-| 1430.9           | + Tall Totem Pole + Telephone Pole = Smokestack Brown |        |
-| 1432.43          | + Tall Totem Pole = Smokestack Brown                  |        |
+| Size 大きさ (cm) | English                                                     | 日本語 |
+| ---------------- | ----------------------------------------------------------- | ------ |
+| 258              | This size is good before bikes                              |        |
+| 282              | After signs                                                 |        |
+| 300              | Get this size on pipes to setup a good train cycle          |        |
+| 329              | When going through green gates and arcade machines          |        |
+| 401              | Must get Spirt of Fun (statue) in middle if below this size |        |
+| 868.3115         | + Train = Cage                                              |        |
+| 1121.73          | + Huge Falling Rock x2 = Mushroom (L)                       |        |
+| 1162             | + Huge Falling Rock = Mushroom (L)                          |        |
+| 1430.9           | + Tall Totem Pole + Telephone Pole = Smokestack Brown       |        |
+| 1432.43          | + Tall Totem Pole = Smokestack Brown                        |        |
+| 12000            | Needed when crossing bridge after Cranes                    |        |
