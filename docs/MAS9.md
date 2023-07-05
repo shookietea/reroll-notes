@@ -1,7 +1,6 @@
 # MAS9
 
 Overworld Location: Right-Down
-
 ## Sizes
 
 | Size 大きさ (cm) | Object                            | English                                                                                         |
@@ -26,6 +25,13 @@ Overworld Location: Right-Down
 | 2785.1           | Bathhouse セントウ                |                                                                                                 |
 | 2848.1           | Trawler ダイギョセン              | the bigger boats in the water (in case you fall)                                                |
 | 2985             | Stingray Building クマノミビル    |                                                                                                 |
+
+## Size Milestones
+
+| Size 大きさ (cm) | English                                                     | 日本語 |
+| ---------------- | ----------------------------------------------------------- | ------ |
+| 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback                             |        |
+
 
 ## Notes
 

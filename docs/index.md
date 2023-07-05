@@ -7,8 +7,9 @@ This site is meant to collect information that's immediately relevant to people 
    - To change the VSync setting, interact with the bird on the overworld and press the "Display Settings" hotkey on the bottom of the screen. 
 - The [practice mod](https://github.com/misoelegant/rpm/tree/master/il-practice-mod) is highly recommended to learn and practice the game. 
     - Install the practice mod with the [mod launcher](https://github.com/misoelegant/rpm/tree/master/updater).
-    - Feel free to ask questions about the mod (or report bugs) in #mod-discussion on the discord server.
-- The [RTA mod](https://github.com/misoelegant/rpm/tree/master/rta-mod) is recommended for full-game runs because of its standardized, built-in turbo. It also includes optional QoL features that don't affect the speedrun (e.g. playing as a cousin or displaying level times during the credits).
+    - Feel free to ask questions about the mod (or report bugs) in \#mod-discussion on the discord server.
+- The [RTA mod](https://github.com/misoelegant/rpm/tree/master/rta-mod) is recommended for full-game runs because of its standardized, built-in A-button turbo. It includes additional optional QoL features that don't affect the speedrun (e.g. playing as a cousin or displaying level times during the credits).
+- 
 
 ## Timing
 - Any% timing starts when the "start a new game" prompt disappears and ends when 300m is reached in Moon.

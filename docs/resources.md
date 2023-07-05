@@ -10,6 +10,7 @@
 	- This information exists per level in the individual level pages
 - [Practice Mod Docs](https://github.com/misoelegant/rpm/tree/master/il-practice-mod)
 - [Noir Input Display](https://www.speedrun.com/katamarireroll/thread/7rw78)
+	- a less resource intensive standalone application can be found in the Discord in the mod announcements channel
 - [Reroll Dump](https://docs.google.com/spreadsheets/d/1zg9WRiJamj6iUKuL2iTY1BhXfhD0HwLHwCNO-9HNe6s/edit#gid=453850959)
 	- Contains all of REROLL's text, items, translations, etc.
 - [Community IL Spreadsheet](https://docs.google.com/spreadsheets/d/1BcpKA7JOyqFPfJxIuy7BT0nc-R2dCBMEEiQkYXK05cA/edit#gid=1667325440)
@@ -17,6 +18,7 @@
 	- Compare your split times with other runners
 	- Works best if everyone's using the AutoSplitter
 	- https://splits.io is a worse alternative, but integrates with speedrun.com
+- [Katamari Damacy Reroll Size Growth Document](https://docs.google.com/document/d/1lDAal300mmCil_Q57lffuOVuX2ztVnB1ccMyMYgPa_A/)
 
 ## Cool noclip shots
 
