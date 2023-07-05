@@ -1,20 +1,22 @@
-# [MAS 1](./mas1.md)
+# Important Object and Size Milestones
 
-## Important Objects
+## [MAS 1](./mas1.md)
+
+### Important Objects
 
 | Size 大きさ (cm) | Object                         | English |
 | ---------------- | ------------------------------ | ------- |
 | 5.8              | Cookie Sandwich クッキーサンド |         |
 
-## Milestones
+### Milestones
 
 | Size 大きさ (cm) | English                 | 日本語 |
 | ---------------- | ----------------------- | ------ |
 | 9.4              | + Mandarin Slices = End |        |
 
-# [MAS2](./mas2.md)
+## [MAS2](./mas2.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                 | English |
 | ---------------- | ---------------------- | ------- |
@@ -23,15 +25,15 @@
 | 12.7             | Blue Sock アオクツシタ |         |
 | 16.5             | Tomato トマト          |         |
 
-## Milestones
+### Milestones
 
 | Size 大きさ (cm) | English                 | 日本語                  |
 | ---------------- | ----------------------- | ----------------------- |
 | 7.5              | + Magnet (x3) = Parsley | + ジシャク(x3) = パセリ |
 
-# [MAS3](./mas3.md)
+## [MAS3](./mas3.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                          | English |
 | ---------------- | ------------------------------- | ------- |
@@ -45,9 +47,9 @@
 | 44.6             | Planting Fence ミニサク         |         |
 | 46.5             | Flower Pot \[Brown\] ハナコバチ |         |
 
-# [MAS4](./mas4.md)
+## [MAS4](./mas4.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                                    | English |
 | ---------------- | ----------------------------------------- | ------- |
@@ -63,9 +65,9 @@
 | 79.6             | Shopping Basket カイモノカゴ              |         |
 | 85.3             | Cucumber Plant キュウリエン               |         |
 
-# [MAS5](./mas5.md)
+## [MAS5](./mas5.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                            | English                                                                                                          |
 | ---------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
@@ -83,7 +85,7 @@
 | 122.6            | Ceiling Light デンキ              | we don't currently get this in the route, but it's still worth knowing the size                                  |
 | 141.1            | Sidewalk Marker ホドウクイ        | 141.7 before the markers and the tricycle gets you to goal size                                                  |
 
-## Milestones
+### Milestones
 
 | Size 大きさ (cm) | English                                                                                                           | 日本語                                                                                                |
 | ---------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
@@ -96,9 +98,9 @@
 | 91.3             | + Bucket \[Small\](x6) + Open/Closed Sign + Crow + Daikon Radish(x5) + Drink Crate(x3) + Warning Sign(x2) = 110.7 | + バケツ(x6) + テイキュウビ + カラス + ダイコン(x5) + ビールケース(x3) + トビダシチュウイ(x2) = 110.7 |
 | 110.7            | + 8th Step(x11) = Ceiling Light (122.6)                                                                           | + ８ダンメ(x11) = デンキ (122.6)                                                                      |
 
-# [MAS6](./mas6.md)
+## [MAS6](./mas6.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                     | English |
 | ---------------- | -------------------------- | ------- |
@@ -112,7 +114,7 @@
 | 272.1            | Vending Machine ジハンキ   |         |
 | 275.5            | Arcade Machine キョウタイ  |         |
 
-## Milestones
+### Milestones
 
 | Size 大きさ (cm)        | English                                                                                                                                                                         | 日本語                                                                                                                                                    |
 | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -120,9 +122,9 @@
 | 165.2                   | + Chicken x3 = White Sheep (167.1)                                                                                                                                              | + ニワトリ x3 = シロヒツジ (167.1)                                                                                                                        |
 | 264.8 after Gas Station | + Squared Shrubbery x2 + Traffic Mirror + Garden Plant (M) x2 + Garden Plant x2 + Vending Machine + Pay Phone + Arcade Machine + Bale of Rice x5 + Tricycle + Balloon Man = 300 | + シカクウエコミ x2 + ミラー + ウエキ x2 + ミニウエキ x2 + ジハンキ + コウシュウデンワ + ジハンキ + コメダワラ x5 + サンリンシャ + フウセンオジサン = 300 |
 
-# [MAS7](./mas7.md)
+## [MAS7](./mas7.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                                   | English                            | 日本語 |                              |
 | ---------------- | ---------------------------------------- | ---------------------------------- | ------ | ---------------------------- |
@@ -141,9 +143,9 @@
 | 540.3            | Compact ケイジドウシャ                   | red car                            |        |                              |
 | 544.5            | Light Truck ケイトラ                     | white truck                        |        |                              |
 
-# [MAS8](./mas8.md)
+## [MAS8](./mas8.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                                 | English                                                                                   |
 | ---------------- | -------------------------------------- | ----------------------------------------------------------------------------------------- |
@@ -171,7 +173,7 @@
 | 963              | Power Lines (20m) デンセン             | these aren't in the collection, but you can pick them up (and not bonk them) at this size |
 | 1003.4           | Baseball Field Sign グラウンドカンバン |                                                                                           |
 
-## Size Milestones
+### Size Milestones
 
 | Size 大きさ (cm) | English                             | 日本語 |
 | ---------------- | ----------------------------------- | ------ |
@@ -179,9 +181,9 @@
 | 27.6             | Only need Takoyaki for Kiddie Rakes |        |
 | 405+             | Entering water after statue. This allows you to easily get the Fish flag pole        |        |
 
-# [MAS9](./mas9.md)
+## [MAS9](./mas9.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                            | English                                                                                         |
 | ---------------- | --------------------------------- | ----------------------------------------------------------------------------------------------- |
@@ -205,14 +207,14 @@
 | 2848.1           | Trawler ダイギョセン              | the bigger boats in the water (in case you fall)                                                |
 | 2985             | Stingray Building クマノミビル    |                                                                                                 |
 
-### Milestones
+#### Milestones
 
 | Size 大きさ (cm) | English                                                     | 日本語 |
 | ---------------- | ----------------------------------------------------------- | ------ |
 | 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback                             |        |
-# [MOON](./moon.md)
+## [MOON](./moon.md)
 
-## Important Objects
+### Important Objects
 
 | Size 大きさ (cm) | Object                               | English     |
 | ---------------- | ------------------------------------ | ----------- |
@@ -242,7 +244,7 @@
 | 24382.1          | Scallop Island ホタテジマ            |             |
 | 27763.9          | Splashy Island ピチピチジマ          |             |
 
-## Milestones
+### Milestones
 
 | Size 大きさ (cm) | English                                                     | 日本語 |
 | ---------------- | ----------------------------------------------------------- | ------ |
