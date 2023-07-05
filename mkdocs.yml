@@ -35,6 +35,8 @@ nav:
       - 'Taurus.md'
       - 'Virgo.md'
       - 'North Star.md'
+  - 'Mechanics':
+    - 'Boosts': 'mechanics/boosts/boosts.md'
 
 theme:
   name: material
