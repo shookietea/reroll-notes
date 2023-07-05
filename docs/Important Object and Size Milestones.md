@@ -207,11 +207,12 @@
 | 2848.1           | Trawler ダイギョセン              | the bigger boats in the water (in case you fall)                                                |
 | 2985             | Stingray Building クマノミビル    |                                                                                                 |
 
-#### Milestones
+### Milestones
 
 | Size 大きさ (cm) | English                                                     | 日本語 |
 | ---------------- | ----------------------------------------------------------- | ------ |
 | 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback                             |        |
+
 ## [MOON](./moon.md)
 
 ### Important Objects
