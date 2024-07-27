@@ -39,3 +39,4 @@ Overworld Location: Up
 - get left side teacups going up
 - there's a rake in sandbox behind the slide
 - can hit speakers from center to get both
+- [stop bouncing before bowling](https://clips.twitch.tv/LightCrunchyWrenchLitFam-agGOgJfs9fpbuwRF)]

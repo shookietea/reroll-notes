@@ -3,24 +3,26 @@
 This site is meant to collect information that's immediately relevant to people who want to start learning the KD speedrun.
 
 ## General
-- VSync introduces a significant amount of input lag, so it's highly recommended to turn it off. 
-   - To change the VSync setting, interact with the bird on the overworld and press the "Display Settings" hotkey on the bottom of the screen. 
-- The [practice mod](https://github.com/misoelegant/rpm/tree/master/il-practice-mod) is highly recommended to learn and practice the game. 
-    - Install the practice mod with the [mod launcher](https://github.com/misoelegant/rpm/tree/master/updater).
-    - Feel free to ask questions about the mod (or report bugs) in \#mod-discussion on the discord server.
+
+- VSync introduces a significant amount of input lag, so it's highly recommended to turn it off.
+  - To change the VSync setting, interact with the bird on the overworld and press the "Display Settings" hotkey on the bottom of the screen.
+- The [practice mod](https://github.com/misoelegant/rpm/tree/master/il-practice-mod) is highly recommended to learn and practice the game.
+  - Install the practice mod with the [mod launcher](https://github.com/misoelegant/rpm/tree/master/updater).
+  - Feel free to ask questions about the mod (or report bugs) in \#mod-discussion on the discord server.
 - The [RTA mod](https://github.com/misoelegant/rpm/tree/master/rta-mod) is recommended for full-game runs because of its standardized, built-in A-button turbo. It includes additional optional QoL features that don't affect the speedrun (e.g. playing as a cousin or displaying level times during the credits).
-- 
 
 ## Timing
+
 - Any% timing starts when the "start a new game" prompt disappears and ends when 300m is reached in Moon.
 - It's recommended to use the [autosplitter](https://www.speedrun.com/katamarireroll/resources) to automatically stop your timer on the correct frame.
 
 ## Menuing
-- Always use the **second** right trigger (R2 on PS2/PS3, RT on 360, ZR on Switch) on the overworld to fly to Earth between levels. 
+
+- Always use the **second** right trigger (R2 on PS2/PS3, RT on 360, ZR on Switch) on the overworld to fly to Earth between levels.
 - Always use **Start** to skip king dialogs during levels. This applies both to the dialog at the start of each level and to the mid-level dialogs that open a new area.
 - Mashing **Start** in addition to A slightly speeds up all post-level dialogs (example [here](https://www.youtube.com/watch?v=NNNs2uJ5Bzo)).
 - The "press start" dialog at the beginning of the tutorial is bugged and **ignores** most input. The best way to get past it is to mash **both Start and A** until it advances.
-    - Higher game FPS is **worse** for advancing the prompt. If you find the prompt consistently difficult to advance, check your FPS and externally cap it to 300 if it's much higher than that.
+  - Higher game FPS is **worse** for advancing the prompt. If you find the prompt consistently difficult to advance, check your FPS and externally cap it to 300 if it's much higher than that.
 
 ## Getting ready for your first run
 

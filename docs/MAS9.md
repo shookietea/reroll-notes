@@ -36,6 +36,7 @@ Overworld Location: Right-Down
 ## Notes
 
 - [start vid](https://clips.twitch.tv/FaithfulEntertainingPineapplePanicBasket-v4Hh6efq4XU6xftb) - pickup plants and angle off for bounce
+- around 22m go left through the town and up the hill for size rather than 
 - [MAS 9 off totem pole bounce](https://clips.twitch.tv/AggressiveAliveGuanacoNerfBlueBlaster-w2kXDAmWNtFpDl2j) - holdenpnw
 - bonk into pink building with speed to end bounce speed and go correct direction while getting two mats
 - table angle tips
