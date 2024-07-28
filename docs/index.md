@@ -1,6 +1,6 @@
 # Learning
 
-This site is meant to collect information that's immediately relevant to people who want to start learning the KD speedrun.
+This site is meant to collect information that's immediately relevant to people who want to start learning the KD speedrun. If you would like to contribute, feel free to create a pull-request on [github](https://github.com/shookietea/reroll-notes), or mention it in the [Katamari Speedrun Discord](https://discord.com/invite/NEJU2JT).
 
 ## General
 
@@ -26,7 +26,7 @@ This site is meant to collect information that's immediately relevant to people 
 
 ## Getting ready for your first run
 
-Currently, the easiest first step towards learning the game would be to play along with this no boost run with live commentary found here: https://www.twitch.tv/videos/539063804
+Currently, the easiest first step towards learning the game would be to play along with this [no boost run with live commentary](https://www.twitch.tv/videos/539063804). Additionally, [gameit's no-boost guide](https://www.youtube.com/watch?v=5ns_9AyCiRQ&t).
 
 Your goal for each level should be to be able to play through it from memory a couple of times in a row without getting lost or stuck.
 
