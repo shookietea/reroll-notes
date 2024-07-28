@@ -175,11 +175,11 @@
 
 ### Size Milestones
 
-| Size 大きさ (cm) | English                             | 日本語 |
-| ---------------- | ----------------------------------- | ------ |
-| 27.5             | Need fried chicken for Kiddie Rakes |        |
-| 27.6             | Only need Takoyaki for Kiddie Rakes |        |
-| 405+             | Entering water after statue. This allows you to easily get the Fish flag pole        |        |
+| Size 大きさ (cm) | English                                                                              | 日本語  |
+| ---------------- | ------------------------------------------------------------------------------------ | ------- |
+| 27.5             | Need fried chicken for Kiddie Rakes                                                  |         |
+| 27.6             | Only need Takoyaki for Kiddie Rakes                                                  |         |
+| 405+             | Entering water after statue. This allows you to easily get the Fish flag pole        |         |
 
 ## [MAS9](./mas9.md)
 
@@ -209,9 +209,9 @@
 
 ### Milestones
 
-| Size 大きさ (cm) | English                                                     | 日本語 |
-| ---------------- | ----------------------------------------------------------- | ------ |
-| 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback                             |        |
+| Size 大きさ (cm) | English                                                               | 日本語 |
+| ---------------- | --------------------------------------------------------------------- | ------ |
+| 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback |        |
 
 ## [MOON](./moon.md)
 

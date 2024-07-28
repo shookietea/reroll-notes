@@ -1,6 +1,7 @@
 # MAS9
 
 Overworld Location: Right-Down
+
 ## Sizes
 
 | Size 大きさ (cm) | Object                            | English                                                                                         |
@@ -28,15 +29,14 @@ Overworld Location: Right-Down
 
 ## Size Milestones
 
-| Size 大きさ (cm) | English                                                     | 日本語 |
-| ---------------- | ----------------------------------------------------------- | ------ |
-| 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback                             |        |
-
+| Size 大きさ (cm) | English                                                               | 日本語 |
+| ---------------- | --------------------------------------------------------------------- | ------ |
+| 540              | Size after White Wall & Vending Machine to ensure 579.9 for Hatchback |        |
 
 ## Notes
 
 - [start vid](https://clips.twitch.tv/FaithfulEntertainingPineapplePanicBasket-v4Hh6efq4XU6xftb) - pickup plants and angle off for bounce
-- around 22m go left through the town and up the hill for size rather than 
+- around 22m go left through the town and up the hill for size rather than
 - [MAS 9 off totem pole bounce](https://clips.twitch.tv/AggressiveAliveGuanacoNerfBlueBlaster-w2kXDAmWNtFpDl2j) - holdenpnw
 - bonk into pink building with speed to end bounce speed and go correct direction while getting two mats
 - table angle tips

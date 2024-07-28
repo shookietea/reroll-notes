@@ -32,17 +32,21 @@ Overworld Location: Down-Right
 
 ## Size Milestones
 
-| Size 大きさ (cm) | English                             | 日本語 |
-| ---------------- | ----------------------------------- | ------ |
-| 27.5             | Need fried chicken for Kiddie Rakes |        |
-| 27.6             | Only need Takoyaki for Kiddie Rakes |        |
-| 405+             | Entering water after statue. This allows you to easily get the Fish flag pole        |        |
+| Size 大きさ (cm) | English                                                                              | 日本語  |
+| ---------------- | ------------------------------------------------------------------------------------ | ------- |
+| 27.5             | Need fried chicken for Kiddie Rakes                                                  |         |
+| 27.6             | Only need Takoyaki for Kiddie Rakes                                                  |         |
+| 405+             | Entering water after statue. This allows you to easily get the Fish flag pole        |         |
 
 ## Notes
+
 ### Markert
+
 - Unless you are getting barber poles before Legless Chair, you do not need to pick up the Grandma. the chair is still nice and on the way.
-- 
+-
+
 ### Sandbox
+
 - ![Monster Cherries x3 vs Kiddie Spade](attachments/mas8-monstercherriesx3-vs-kiddiespade.png)
 - getting Monster Cherries x3 is the same as another Kiddie Spade, making the spade grouped with cherries valuable
 - ![sandbox guidelines for no-boost](attachments/mas8-sandbox-noboost-helper.png)
